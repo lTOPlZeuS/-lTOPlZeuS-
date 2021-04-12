@@ -23,8 +23,8 @@
 <p align="left">
 <a href="https://dev.to/tacomeister" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="tacomeister" height="30" width="40" /></a>
 <a href="https://twitter.com/@" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jesus antonio rocha vicente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jesus antonio rocha vicente" height="30" width="40" /></a>
-<a href="https://fb.com/jesus antonio rocha vicente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jesus antonio rocha vicente" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jesus-antonio-rocha-vicente-a44505155/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jesus antonio rocha vicente" height="30" width="40" /></a>
+<a href="https://fb.com/jesus.rochavicente" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="jesus antonio rocha vicente" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/tacomeister" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="tacomeister" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/tacomeister" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="tacomeister" height="30" width="40" /></a>
 </p>
