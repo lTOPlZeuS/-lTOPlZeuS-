@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ltoplzeus" alt="ltoplzeus" /></a> </p>
 
-- 🔭 I’m currently working from [Laravel Livewire](https://github.com/lTOPlZeuS?tab=repositories)
+- 🔭 I’m currently working from [Spring Framework](https://github.com/lTOPlZeuS?tab=repositories)
 
-- 🌱 I’m currently learning **Laravel,SpringBoot and Node.js**
+- 🌱 I’m currently learning **SpringBoot, Java, Mokito and Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/lTOPlZeuS?tab=repositories](https://github.com/lTOPlZeuS?tab=repositories)
 
